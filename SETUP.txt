@@ -1,0 +1,26 @@
+
+MATH ADVENTURES - QUICK SETUP GUIDE
+
+1. EXTRACT THIS ZIP FILE
+   └─ All files will be in one folder
+
+2. INSTALL PYTHON (if not already installed)
+   └─ Download from: https://www.python.org/downloads/
+   └─ Make sure Python 3.8+ is installed
+
+3. OPEN TERMINAL/COMMAND PROMPT
+   └─ Navigate to the extracted folder
+
+4. INSTALL DEPENDENCIES
+   └─ Run: pip install -r requirements.txt
+
+5. RUN THE APPLICATION
+   └─ Run: python main.py
+
+6. FOLLOW PROMPTS
+   └─ Enter name
+   └─ Select difficulty (1, 2, or 3)
+   └─ Answer math questions
+   └─ Watch difficulty adapt!
+
+DONE! Enjoy learning! 🚀
